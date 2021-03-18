@@ -23,3 +23,6 @@ git clone https://github.com/ArcadiaLinux/arcadia-grub-config
 
 echo "Cloning GNOME Config Repo"
 git clone https://github.com/ArcadiaLinux/arcadia-gnome-config
+
+echo "Cloning Arcadia website"
+git clone https://github.com/ArcadiaLinux/arcadia-website.git
